@@ -5,6 +5,7 @@
 ## 📋 Quick Navigation
 
 - [Blur My Shell](#blur-my-shell)
+- [Velora Desktop](#velora-desktop)
 - [User Themes](#user-themes)
 - [Auto Theme](#auto-theme)
 - [Desktop Cube](#desktop-cube)
@@ -39,6 +40,12 @@ Adds a customizable blur effect to the GNOME Shell overview, top panel, dash, an
 🔗 [GitHub](https://github.com/aunetx/blur-my-shell)
 🔗 [EGO](https://extensions.gnome.org/extension/3193/blur-my-shell/)
 `blur-my-shell@aunetx`
+
+### Velora Desktop
+Applies a native-style Liquid Glass material across supported GNOME Shell surfaces while preserving GNOME's existing layout, controls, accessibility, animations, and behaviour. Also includes the Velora Orb radial launcher and Super+Space Spotlight-style app search. Targets GNOME Shell 50.
+
+🔗 [GitHub](https://github.com/Anuppaul/velora-desktop)
+`velora@wonderer.tech`
 
 ### User Themes
 Allows loading custom Shell themes from the user's home directory. Part of the official GNOME Shell extensions package.
