@@ -13,6 +13,7 @@
 - [Add to Desktop](#add-to-desktop)
 - [No Overview](#no-overview)
 - [Start Overlay in Application View](#start-overlay-in-application-view)
+- [Hide System Icons](#hide-system-icons)
 - [Vertigrid](#vertigrid)
 - [Media Controls](#media-controls)
 - [Quick Settings Audio Panel](#quick-settings-audio-panel)
@@ -61,6 +62,7 @@ Recreates the legendary Compiz desktop cube effect for GNOME Shell. Fully custom
 🔗 [EGO](https://extensions.gnome.org/extension/4648/desktop-cube/)
 `desktop-cube@schneegans.github.com`
 
+
 ---
 
 ## 🖥️ Desktop & Layout
@@ -107,6 +109,13 @@ When activating the overview (Super key), shows the application view instead of 
 🔗 [EGO](https://extensions.gnome.org/extension/5040/start-overlay-in-application-view/)
 `start-overlay-in-application-view@Hex_cz`
 
+
+### Hide System Icons
+Hide system icons in the tray panel.
+
+🔗 [GitHub](https://github.com/shichen35/hide-system-icons)
+🔗 [EGO](https://extensions.gnome.org/extension/8558/hide-system-icons/)
+`hide-system-icons@shichen35.github.io`
 
 ---
 
